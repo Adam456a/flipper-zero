@@ -1,0 +1,10 @@
+REM Title: idk
+REM Auther: Adam McCombe
+REM Target: win10+
+DELAY 100
+GUI r
+DELAY 100
+STRING notepad.exe
+DELAY 100
+STRING ¯\_(ツ)_/¯
+DELAY 100

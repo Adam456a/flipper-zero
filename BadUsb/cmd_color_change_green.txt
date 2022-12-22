@@ -1,0 +1,14 @@
+REM Title: change cmd coler to green
+REM Auther: Adam McCombe
+REM Target: win10+
+DELAY 1000
+GUI r
+DELAY 100
+STRING cmd
+DELAY 100
+ENTER color 2
+DELAY 100 
+STRING cls
+DELAY 100
+ENTER
+DELAY 100
