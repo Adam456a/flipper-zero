@@ -1,5 +1,5 @@
 REM Title: change cmd coler to green
-REM Auther: Adam McCombe
+REM Auther: AdamNB
 REM Target: win10+
 DELAY 1000
 GUI r

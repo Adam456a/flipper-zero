@@ -1,5 +1,5 @@
 REM Title: idk
-REM Auther: Adam McCombe
+REM Auther: AdamNB
 REM Target: win10+
 DELAY 100
 GUI r
